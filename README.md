@@ -8,9 +8,9 @@
 
 - For single-task classification (such as LogP, FDA, BBBP, BACE datasets):  
     ```
-    python GraSeq_single/main.py
+    python PSGS_single/main.py
     ```
 - For multi-task classification (such as Tox21 and ToxCast datasets):  
     ```
-    python GraSeq_multi/main.py
+    python PSGS_multi/main.py
     ```
