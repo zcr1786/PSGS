@@ -6,7 +6,7 @@
 ```
 ### Run code
 
-- For single-task classification (such as LogP, FDA, BBBP, BACE datasets):  
+- For single-task classification (such as BBBP, BACE datasets):  
     ```
     python PSGS_single/main.py
     ```
